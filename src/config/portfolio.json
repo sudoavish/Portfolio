@@ -1,0 +1,71 @@
+{
+  "personal": {
+    "name": "Avish Kamra",
+    "role": "Backend Developer | Cloud Strategist",
+    "description": "Seeking a Cloud DevOps or Solutions Engineer role to leverage expertise in cloud computing and Backend systems.",
+    "avatar": "/avatar.jpg",
+    "location": "Chandigarh, India",
+    "email": "kumaravish847@gmail.com",
+    "socials": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/sudoavish/"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/avishkamra/"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "description": "With a passion for both technology and Cloud, I develop scalable, high-performance applications that captivate users and drive success.",
+    "resume": "https://drive.google.com/file/d/1c_8rpvefsHmt4N9eyZTJ0Z9GeYyGuNd9/view?usp=drive_link"
+  },
+  "projects": [
+    {
+      "title": "Vastraaa - E-commerce Website",
+      "description": "Vastraaa is a full-stack e-commerce website built using React, Express, TailwindCSS, and MongoDB. It offers a seamless shopping experience with features like product browsing, user authentication, and secure payment processing.",
+      "tags": ["React", "Express", "TailwindCSS", "MongoDB"],
+      "image": "/vastraaa.png",
+      "url": "",
+      "github": "https://github.com/sudoavish/Vastraaa"
+    }, 
+    {
+      "title": "Excalidraw - Online Drawing Application",
+      "description": "Excalidraw is a collaborative online drawing application built with React and TypeScript. It utilizes WebSockets for real-time communication and Node.js with Express for the backend, while PostgreSQL is used for data storage.",
+      "tags": ["React", "TypeScript", "WebSockets", "Node.js", "Express", "postgreSQL"],
+      "image": "/excalidraw.png",
+      "url": "",
+      "github": "https://github.com/sudoavish/Excalidraw"
+    }
+  ],
+  "skills": [
+    { "name": "React", "icon": "SiReact" },
+    { "name": "Node.js", "icon": "SiNodedotjs" },
+    { "name": "Python", "icon": "SiPython" },
+    { "name": "TypeScript", "icon": "SiTypescript" },
+    { "name": "AWS", "icon": "FaAws" },
+    { "name": "Docker", "icon": "SiDocker" },
+    { "name": "Java", "icon": "FaJava" },
+    { "name": "JavaScript", "icon": "SiJavascript" },
+    { "name": "Git", "icon": "SiGit" },
+    { "name": "Figma", "icon": "SiFigma" },
+    { "name": "MongoDB", "icon": "SiMongodb" },
+    { "name": "MySQL", "icon": "SiMysql" },
+    { "name": "Express", "icon": "SiExpress" },
+    { "name": "WebSockets", "icon": "SiSocketdotio" }
+  ],
+    
+  "experience": [
+    {
+      "company": "SHOR Foundation",
+      "role": "Frontend Developer Intern",
+      "startDate": "March 2025",
+      "endDate": "April 2025",
+      "responsibilities": [
+        "Delivered 3 intensive web development training sessions totaling 12+ hours to 40+ Indian Army officers, covering modern frontend frameworks, deployment workflows, and full-stack development fundamentals. Collaborated closely with military personnel to identify technical requirements and tailored training methodology to improve engagement and practical adoption, contributing to the modernization of internal web development practices."
+      ]
+    }
+  ]
+}
