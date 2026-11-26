@@ -66,6 +66,15 @@
       "responsibilities": [
         "Delivered 3 intensive web development training sessions totaling 12+ hours to 40+ Indian Army officers, covering modern frontend frameworks, deployment workflows, and full-stack development fundamentals. Collaborated closely with military personnel to identify technical requirements and tailored training methodology to improve engagement and practical adoption, contributing to the modernization of internal web development practices."
       ]
+    }, 
+    {
+      "company": "ENABLERMINDS",
+      "role": "Data Engineer Intern",
+      "startDate": "SEP 2026",
+      "endDate": "Present",
+      "responsibilities": [
+        "Developed and maintained data pipelines using Python and SQL, ensuring efficient data extraction, transformation, and loading (ETL) processes for large-scale datasets."
+      ]
     }
   ]
 }
